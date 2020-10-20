@@ -1,2 +1,2 @@
 # hello-word
-just try to know how to use github
+this is my new fenzhi
